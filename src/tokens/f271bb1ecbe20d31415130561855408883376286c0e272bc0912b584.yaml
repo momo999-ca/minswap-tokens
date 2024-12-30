@@ -1,0 +1,26 @@
+project: MOMO
+
+categories:
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  website: http://m0mo.fun/
+  twitter: https://x.com/momothe_penguin?s=21
+  discord: https://discord.com/invite/9vmQCegJ
+
+verified: true
+
+maxSupply: 1000000000
+
+treasury:
+  - stake1uyerk44tves823hx3u4r4gnckkr5uj8vcnh639ze8z377kglcwxx4
+  - stake1uyxjljjsh4e7tva3km6pah3nc0n075ees0py0vzzt5e4n3gxtnd3c
+  - stake1u8zjg59k5v7f6fjrsng8sfentp388v6sjs7pva9v98e334grwqh9c
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
+
+tx :
+  -  40b7556078b266f809fb89044f396555a209e7b90cc6977e5e09520cb4decc61
